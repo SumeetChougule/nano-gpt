@@ -20,8 +20,8 @@ nanoGPT is a minimal implementation of a decoder-only Transformer based on the p
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/nanoGPT.git
-cd nanoGPT
+git clone https://github.com/SumeetChougule/nano-gpt.git
+cd nano-gpt
 ```
 
 ### Data Preparation
