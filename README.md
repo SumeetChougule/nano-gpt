@@ -55,15 +55,6 @@ The Transformer model is implemented in `nano_gpt.py`. It consists of the follow
 - `Block`: A single block of the Transformer consisting of multi-head attention and feed-forward layers.
 - `Transformer`: The full decoder-only Transformer model.
 
-### Training Script
-
-The training script `train.py` handles the data loading, model training loop, and saving the trained model.
-
-### Inference Script
-
-The inference script `generate.py` uses the trained model to generate text based on a given prompt.
-
-
 
 ## Contributing
 
@@ -74,5 +65,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - [Andrej Karpathy](https://karpathy.ai/) for his insightful tutorial and inspiration for this project.
 - The authors of the paper ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) for their groundbreaking work on the Transformer model.
-
-```
